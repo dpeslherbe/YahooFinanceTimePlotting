@@ -1,0 +1,11 @@
+Package: YahooFinanceTimePlotting
+Type: Package
+Title: Create Plot of Selected Yahoo Finance Stock Data
+Version: 1.0.0
+Author: D Peslherbe
+Maintainer: <dpeslherbe@outlook.com>
+Depends: R (>= 3.6.2), quantmod, ggplot2, dplyr
+Description: Create a plot through ggplot() of values of a specified Stock between certain dates (if specified), or stock lifetime
+License: No License
+Encoding: UTF-8
+LazyData: true
